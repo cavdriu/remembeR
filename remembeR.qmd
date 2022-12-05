@@ -1,0 +1,10 @@
+---
+title: "remembeR"
+author: "Andriu"
+format: html
+editor: visual
+---
+
+## Funktion
+
+aösfdjaf
