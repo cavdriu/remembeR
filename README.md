@@ -1,3 +1,3 @@
 # rememberrr
 
-Hilfestellung um Funktionen und Prozesse beim Code mit R in Erinnerung zu behalten.
+Hilfestellung um Funktionen und Prozesse beim Coden mit R in Erinnerung zu behalten.
