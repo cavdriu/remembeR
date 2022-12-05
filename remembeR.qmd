@@ -1,10 +1,14 @@
 ---
 title: "remembeR"
 author: "Andriu"
+date: "2022-12-05"
+#date-modified: "2022-12-05"
+toc: true
+abstract: Important helpers for coding with R!
 format: html
 editor: visual
 ---
 
-## Funktion
+## Functions
 
 aösfdjaf
